@@ -1,2 +1,2 @@
-# terraform-util
+# terraform-utils
 Utilities for Terraform.
